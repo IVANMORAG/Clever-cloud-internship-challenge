@@ -1,4 +1,4 @@
-# Clever-cloud-internship-challenge
+
 # 🚀 Clever Cloud - Desafío Técnico Inicial
 
 Este repositorio contiene las soluciones a los ejercicios de programación del desafío técnico inicial para la internship de Clever Cloud.
